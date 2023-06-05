@@ -3,6 +3,7 @@ Mallac Media is a website showcasing various projects and social media channels.
 
 **Screenshots**
 
+![mallacmedia](https://github.com/rk95x/Mallac-Media/assets/124801781/7b5b6b7d-6262-4b01-b1b1-a29332406604)
 
 
 
